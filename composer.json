@@ -19,9 +19,9 @@
         }
     },
     "suggest": {
-        "skytells/database": "Required to use the database cache driver (5.4.*).",
-        "skytells/filesystem": "Required to use the file cache driver (5.4.*).",
-        "skytells/redis": "Required to use the redis cache driver (5.4.*)."
+        "skytells/database": "Required to use the database cache driver (1.*).",
+        "skytells/filesystem": "Required to use the file cache driver (1.*).",
+        "skytells/redis": "Required to use the redis cache driver (1.*)."
     },
     "config": {
         "sort-packages": true
